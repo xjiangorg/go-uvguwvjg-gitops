@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/quay_xjiang/go-uvguwvjg:507eb74cd3d73f38475e33aaeb87e9a3ee101721@sha256:f737b4bbb21a241d47f39f9b48804a8fa86fc21510a9df369f0750e5fcf2ae56
+        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/quay_xjiang/go-uvguwvjg:2510ad10b687721b2321e56e2fcde412642ec7d9@sha256:b3ff68985ba6400d616a5aab4b40d3ce4171a48768b8b51d3be7d5d272d98314
           name: container-image
